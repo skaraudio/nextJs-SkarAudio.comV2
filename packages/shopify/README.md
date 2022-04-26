@@ -12,16 +12,6 @@ cp packages/shopify/.env.template .env.local
 
 Then, set the environment variables in `.env.local` to match the ones from your store.
 
-## Contribute
-
-Our commitment to Open Source can be found [here](https://vercel.com/oss).
-
-If you find an issue with the provider or want a new feature, feel free to open a PR or [create a new issue](https://github.com/vercel/commerce/issues).
-
-## Modifications
-
-These modifications are temporarily until contributions are made to remove them.
-
 ### Adding item to Cart
 
 ```js
